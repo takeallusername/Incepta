@@ -51,8 +51,28 @@ export default function Home() {
       </nav>
 
       {/* Hero Section */}
-      <section className="flex min-h-screen items-center justify-center px-6 pt-20">
-        <div className="mx-auto max-w-4xl text-center">
+      <section className="relative flex min-h-screen items-center justify-center overflow-hidden px-6 pt-20">
+        {/* Decorative 3D Squares */}
+        <div className="pointer-events-none absolute inset-0">
+          {/* Top left large square */}
+          <div className="absolute -left-8 top-32 h-24 w-24 rotate-12 border-4 border-primary bg-primary/20 shadow-[8px_8px_0px_0px] shadow-primary/50 md:h-32 md:w-32" />
+          {/* Top right small square */}
+          <div className="absolute right-12 top-40 h-12 w-12 -rotate-6 border-4 border-primary bg-primary shadow-[6px_6px_0px_0px] shadow-black md:right-24 md:h-16 md:w-16" />
+          {/* Top right medium square */}
+          <div className="absolute right-4 top-64 h-20 w-20 rotate-45 border-4 border-primary/60 bg-primary/10 shadow-[6px_6px_0px_0px] shadow-primary/40 md:right-16 md:h-24 md:w-24" />
+          {/* Left middle square */}
+          <div className="absolute -left-4 top-1/2 h-16 w-16 -rotate-12 border-4 border-primary bg-primary/80 shadow-[8px_8px_0px_0px] shadow-black md:left-8 md:h-20 md:w-20" />
+          {/* Right middle small */}
+          <div className="absolute right-8 top-1/3 h-8 w-8 rotate-12 border-3 border-primary bg-primary shadow-[4px_4px_0px_0px] shadow-black md:right-32 md:h-10 md:w-10" />
+          {/* Bottom left */}
+          <div className="absolute bottom-48 left-8 h-14 w-14 rotate-6 border-4 border-primary/70 bg-primary/30 shadow-[6px_6px_0px_0px] shadow-primary/50 md:left-20 md:h-18 md:w-18" />
+          {/* Bottom right large */}
+          <div className="absolute -right-6 bottom-32 h-28 w-28 -rotate-12 border-4 border-primary bg-primary/15 shadow-[10px_10px_0px_0px] shadow-primary/40 md:right-8 md:h-36 md:w-36" />
+          {/* Bottom center small */}
+          <div className="absolute bottom-24 left-1/4 h-10 w-10 rotate-45 border-3 border-primary bg-primary shadow-[5px_5px_0px_0px] shadow-black md:h-12 md:w-12" />
+        </div>
+
+        <div className="relative z-10 mx-auto max-w-4xl text-center">
           <div className="mb-6 inline-block border-2 border-border bg-secondary px-4 py-2 text-sm font-medium shadow-sm">
             For US College Students
           </div>
