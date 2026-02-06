@@ -29,10 +29,10 @@ export default function TermsOfService() {
               1. Service Description
             </h2>
             <p className="mb-4 text-muted-foreground">
-              Incepta is a web-based platform that helps college students prepare
-              for exams by analyzing uploaded lecture materials (PDFs) and
-              generating compressed study notes and practice questions. These
-              terms define the rights and obligations regarding service usage.
+              Incepta is a web-based platform operated by Tunely that helps college
+              students prepare for exams by analyzing uploaded lecture materials
+              (PDFs) and generating compressed study notes and practice questions.
+              These terms define the rights and obligations regarding service usage.
             </p>
           </section>
 
@@ -105,117 +105,46 @@ export default function TermsOfService() {
             </p>
 
             <h3 className="mb-2 mt-6 text-xl font-bold">
-              3.3 Consumer Right to Cancel (14-Day Refund Guarantee)
+              3.3 Consumer Right to Cancel
             </h3>
             <p className="mb-4 text-muted-foreground">
-              Consumers may cancel this agreement and request a refund within 14
-              days of purchase for any reason. The refund period is 14 days from
-              the day after the transaction is completed.
+              As a consumer, you have the right to cancel your purchase within 14
+              days without giving any reason. The cancellation period expires 14
+              days from the day after the transaction is completed.
             </p>
             <p className="mb-4 text-muted-foreground">
-              To request a refund, you must inform Incepta of your decision. It is
-              sufficient to send your communication of your intention to cancel
-              within the 14-day period. For immediate processing, contact our
-              support team at{" "}
+              To cancel, contact Paddle (our Merchant of Record) or our support
+              team at{" "}
               <a
                 href="mailto:support@incepta.app"
                 className="text-primary underline"
               >
                 support@incepta.app
-              </a>{" "}
-              or use the cancellation form below.
-            </p>
-
-            <h4 className="mb-2 mt-4 font-bold">Cancellation Form</h4>
-            <div className="mb-4 border-2 border-border bg-muted p-4 text-sm text-muted-foreground">
-              <p>To: Incepta Support Team</p>
-              <p>
-                I hereby give notice that I cancel my contract for the sale of the
-                following product:
-              </p>
-              <p>Order date:</p>
-              <p>Order number:</p>
-              <p>Consumer name:</p>
-              <p>Consumer email:</p>
-              <p>Date:</p>
-            </div>
-
-            <h3 className="mb-2 mt-6 text-xl font-bold">
-              3.4 Effects of Cancellation
-            </h3>
-            <p className="mb-4 text-muted-foreground">
-              If you cancel this agreement, we will reimburse all payments received
-              from you. Reimbursement will be made within 14 days from the day we
-              receive your cancellation notice. Refunds will be made using the same
-              payment method used in the original transaction, and you will not
-              incur any fees.
+              </a>
+              . We will process your cancellation request promptly.
             </p>
 
             <h3 className="mb-2 mt-6 text-xl font-bold">
-              3.5 Exception to Right to Cancel
+              3.4 Refund Policy
             </h3>
             <p className="mb-4 text-muted-foreground">
-              <strong>For Digital Content:</strong> Your right to cancel as a
-              consumer does not apply to digital content that has started to be
-              delivered, downloaded, or otherwise acquired. If you start generating
-              study materials or begin using the service, you consent to immediate
-              performance and will lose your right to cancel this agreement.
+              All refund requests are processed by Paddle in accordance with
+              Paddle&apos;s refund policy. If you cancel within the 14-day period, we
+              will reimburse all payments received from you without undue delay,
+              and no later than 14 days after we are informed of your decision to
+              cancel. Refunds will be made using the same payment method used for
+              the original transaction, and you will not incur any fees.
             </p>
 
             <h3 className="mb-2 mt-6 text-xl font-bold">
-              3.6 Subscription Cancellation Policy
+              3.5 Subscription Cancellation
             </h3>
             <p className="mb-4 text-muted-foreground">
-              You may cancel your subscription at any time. Upon cancellation:
-            </p>
-            <ul className="mb-4 list-inside list-disc space-y-2 text-muted-foreground">
-              <li>
-                Your subscription will remain active until the end of the current
-                billing period
-              </li>
-              <li>
-                No refunds are provided for the unused portion of the current
-                billing period
-              </li>
-              <li>
-                You will not be charged for subsequent billing periods after
-                cancellation
-              </li>
-              <li>
-                To cancel, visit your account settings or contact support at least
-                48 hours before your next billing date
-              </li>
-            </ul>
-
-            <h3 className="mb-2 mt-6 text-xl font-bold">3.7 Refund Process</h3>
-            <p className="mb-2 text-muted-foreground">
-              To request a refund within the applicable period:
-            </p>
-            <ul className="mb-4 list-inside list-disc space-y-2 text-muted-foreground">
-              <li>
-                Contact our support team at{" "}
-                <a
-                  href="mailto:support@incepta.app"
-                  className="text-primary underline"
-                >
-                  support@incepta.app
-                </a>
-              </li>
-              <li>Provide your order number and email address used for purchase</li>
-              <li>Refunds will be processed within 5-7 business days</li>
-              <li>Refunds are issued to the original payment method</li>
-            </ul>
-
-            <h3 className="mb-2 mt-6 text-xl font-bold">
-              3.8 Indirect Sales Tax Refund Policy
-            </h3>
-            <p className="mb-4 text-muted-foreground">
-              If sales tax was charged on your purchase and you are registered for
-              sales tax in the country of purchase, you may be entitled to a refund
-              of the sales tax amount if permitted by the laws of that country. To
-              receive a sales tax refund, you must contact Incepta within 60 days
-              of completing the purchase. Refunds will only be processed upon
-              providing a valid sales tax code for your country.
+              You may cancel your subscription at any time. To cancel, visit your
+              account settings or contact support at least 48 hours before your
+              next billing date. Your subscription will remain active until the
+              end of the current billing period, and you will not be charged for
+              subsequent periods after cancellation.
             </p>
           </section>
 
@@ -358,7 +287,8 @@ export default function TermsOfService() {
               12. Contact
             </h2>
             <p className="text-muted-foreground">
-              For inquiries regarding these terms, please contact:
+              Incepta is operated by Tunely. For inquiries regarding these terms,
+              please contact:
             </p>
             <p className="mt-2 text-muted-foreground">
               Email:{" "}
@@ -376,7 +306,7 @@ export default function TermsOfService() {
       {/* Footer */}
       <footer className="border-t-2 border-border bg-muted px-6 py-8">
         <div className="mx-auto max-w-6xl text-center text-sm text-muted-foreground">
-          © {new Date().getFullYear()} Incepta. All rights reserved.
+          © {new Date().getFullYear()} Tunely. All rights reserved.
         </div>
       </footer>
     </div>

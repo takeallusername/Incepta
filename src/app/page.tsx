@@ -595,7 +595,7 @@ export default function Home() {
             </div>
           </div>
           <div className="border-t-2 border-border pt-8 text-center text-sm text-muted-foreground">
-            © {new Date().getFullYear()} Incepta. All rights reserved.
+            © {new Date().getFullYear()} Tunely. All rights reserved.
           </div>
         </div>
       </footer>

@@ -29,7 +29,7 @@ export default function PrivacyPolicy() {
               1. Personal Information We Collect
             </h2>
             <p className="mb-4 text-muted-foreground">
-              Incepta collects the following personal information:
+              Incepta, operated by Tunely, collects the following personal information:
             </p>
             <ul className="mb-4 list-inside list-disc space-y-2 text-muted-foreground">
               <li>
@@ -310,11 +310,11 @@ export default function PrivacyPolicy() {
               13. Contact
             </h2>
             <p className="mb-4 text-muted-foreground">
-              For questions regarding personal information processing, please
-              contact:
+              Incepta is operated by Tunely. For questions regarding personal
+              information processing, please contact:
             </p>
             <p className="text-muted-foreground">
-              <strong className="text-foreground">Privacy Team</strong>
+              <strong className="text-foreground">Tunely Privacy Team</strong>
               <br />
               Email:{" "}
               <a
@@ -340,7 +340,7 @@ export default function PrivacyPolicy() {
       {/* Footer */}
       <footer className="border-t-2 border-border bg-muted px-6 py-8">
         <div className="mx-auto max-w-6xl text-center text-sm text-muted-foreground">
-          © {new Date().getFullYear()} Incepta. All rights reserved.
+          © {new Date().getFullYear()} Tunely. All rights reserved.
         </div>
       </footer>
     </div>
