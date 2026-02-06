@@ -587,7 +587,7 @@ export default function Home() {
                 Privacy Policy
               </Link>
               <Link
-                href="mailto:support@incepta.app"
+                href="mailto:takeallusername@gmail.com"
                 className="text-sm text-muted-foreground hover:text-foreground"
               >
                 Contact

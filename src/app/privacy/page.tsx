@@ -211,10 +211,10 @@ export default function PrivacyPolicy() {
               These rights can be exercised directly in your account settings or by
               contacting our support team at{" "}
               <a
-                href="mailto:privacy@incepta.app"
+                href="mailto:takeallusername@gmail.com"
                 className="text-primary underline"
               >
-                privacy@incepta.app
+                takeallusername@gmail.com
               </a>
               .
             </p>
@@ -318,19 +318,19 @@ export default function PrivacyPolicy() {
               <br />
               Email:{" "}
               <a
-                href="mailto:privacy@incepta.app"
+                href="mailto:takeallusername@gmail.com"
                 className="text-primary underline"
               >
-                privacy@incepta.app
+                takeallusername@gmail.com
               </a>
             </p>
             <p className="mt-4 text-muted-foreground">
               For general inquiries:{" "}
               <a
-                href="mailto:support@incepta.app"
+                href="mailto:takeallusername@gmail.com"
                 className="text-primary underline"
               >
-                support@incepta.app
+                takeallusername@gmail.com
               </a>
             </p>
           </section>

@@ -116,10 +116,10 @@ export default function TermsOfService() {
               To cancel, contact Paddle (our Merchant of Record) or our support
               team at{" "}
               <a
-                href="mailto:support@incepta.app"
+                href="mailto:takeallusername@gmail.com"
                 className="text-primary underline"
               >
-                support@incepta.app
+                takeallusername@gmail.com
               </a>
               . We will process your cancellation request promptly.
             </p>
@@ -293,10 +293,10 @@ export default function TermsOfService() {
             <p className="mt-2 text-muted-foreground">
               Email:{" "}
               <a
-                href="mailto:legal@incepta.app"
+                href="mailto:takeallusername@gmail.com"
                 className="text-primary underline"
               >
-                legal@incepta.app
+                takeallusername@gmail.com
               </a>
             </p>
           </section>
